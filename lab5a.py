@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Author ID: [seneca_id]
+# Author ID: Padu-adjei1
 
 def read_file_string(file_name):
     f = open(file_name, 'r')
